@@ -1,7 +1,7 @@
 {
   "name": "di-custom-favorite-gif",
   "version": "0.1.0",
-  "description": "A DiscordInjections plugin to back up emoji history.",
+  "description": "A DiscordInjections plugin add custom images to the Favorite GIFs selector.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
