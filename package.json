@@ -1,0 +1,25 @@
+{
+  "name": "di-custom-favorite-gif",
+  "version": "0.1.0",
+  "description": "A DiscordInjections plugin to back up emoji history.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ratismal/emoji-backup.git"
+  },
+  "css": [
+    "emojiBackup.css"
+  ],
+  "keywords": [
+    "di-plugin"
+  ],
+  "author": "stupid cat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ratismal/emoji-backup/issues"
+  },
+  "homepage": "https://github.com/Ratismal/emoji-backup#readme"
+}
